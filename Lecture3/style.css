@@ -1,0 +1,17 @@
+*{
+    margin: 2px;
+    padding: 5px;
+
+}
+body{
+    border: solid 2px darkred;
+    border-radius: 3px;
+    background-color: black;
+    color: #ff5758;
+}
+/* section{
+    color: red;
+    display: flex;
+    width: 50%;
+    
+} */
